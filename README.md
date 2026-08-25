@@ -1,6 +1,9 @@
 # PS5-JAILBREAK-PINAS-SlopPoops-WebHost
 Webhost base on Jordy's Slopkit for FW9.00 to FW12.00 with OFFLINE CACHE feature and UNLI PAYLOADS ability where users can add Payloads FREELY and will auto populate on the webhost itself, online or offline.
 
+<img width="1756" height="939" alt="image" src="https://github.com/user-attachments/assets/ff5864c5-181f-4c8d-b911-a96da44c0a6b" />
+
+
 ---------------------------------
 What if offers?
 ---------------------------------
