@@ -3,22 +3,23 @@ Webhost base on Jordy's Slopkit for FW9.00 to FW12.00 with OFFLINE CACHE feature
 
 ---------------------------------
 What if offers?
+
 -Improved Stability base on Jordy's WebHost 
 -Offline Cache! For Offline Jailbreak!
 -Comes with 12 Pre-Embedded Payloads!
 
-lapy_jb_daemonv1.2.elf
-KstuffLite1.10beta.elf
-KstuffLite1.2drTest2.elf
-ShadowMountPlus1.6beta16.elf
-FtpSrvPS5dr1.15-ngStable.elf
-nanodns0.4.elf
-bfpilotv044.elf
-apr_emu_updaterv151.elf
-pldmgr_v0.5.1.elf
-web-file-mgr-v1.6.elf
-game-compressor1.0.4.elf
-websrv-ps5v0.34.elf
+ lapy_jb_daemonv1.2.elf
+ KstuffLite1.10beta.elf
+ KstuffLite1.2drTest2.elf
+ ShadowMountPlus1.6beta16.elf
+ FtpSrvPS5dr1.15-ngStable.elf
+ nanodns0.4.elf
+ bfpilotv044.elf
+ apr_emu_updaterv151.elf
+ pldmgr_v0.5.1.elf
+ web-file-mgr-v1.6.elf
+ game-compressor1.0.4.elf
+ websrv-ps5v0.34.elf
 
 PLUS! Display User ID(for payload directory) and Browser AppCache Remover
 
