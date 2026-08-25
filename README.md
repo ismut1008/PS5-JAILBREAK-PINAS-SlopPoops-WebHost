@@ -53,7 +53,7 @@ HOW TO:
 not jailbroken:
 ----------------
 
-- use dns: 62.210.38.117, open users guide(echo's host), select playstation 5 then enter "ps5jailbreakpinas2.netlify.app" on the address bar and hit "GO". Once jailbroken, install the media tab fpkg shortcut, then no need to go to users guide again.
+- use dns: 62.210.38.117, open users guide(echo's host), select playstation 5 then enter "ps5jailbreakpinas2.netlify.app" on the address bar and hit "GO". Once jailbroken, install the media tab fpkg shortcut, do a full cache, go offline, then no need to open users guide again.
 
 ----------------
 jailbroken:
