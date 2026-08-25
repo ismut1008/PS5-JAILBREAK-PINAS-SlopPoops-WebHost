@@ -38,7 +38,7 @@ What if offers?
     /user/home/(user-id)/webkit/shell/esp-payloads
 
     - payload path example:
-    /user/home/(user-id)/webkit/shell/esp-payloads/kstuff1.6.7.elf
+    /user/home/(user-id)/webkit/shell/esp-payloads/onionhen.elf
 
      
 PS5-Xplorer fpkg link:
