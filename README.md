@@ -64,3 +64,6 @@ jailbroken:
 Fpkg Media Tab Shortcut Installer:
 https://www.mediafire.com/file/oli4qi6h8yji8p4/ps5jbpinas2.pkg/file
 
+Webhost Link:
+https://ps5jailbreakpinas2.netlify.app/ or just ps5jailbreakpinas2.netlify.app
+
