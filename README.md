@@ -67,3 +67,24 @@ https://www.mediafire.com/file/oli4qi6h8yji8p4/ps5jbpinas2.pkg/file
 Webhost Link:
 https://ps5jailbreakpinas2.netlify.app/ or just ps5jailbreakpinas2.netlify.app
 
+
+--------------------------------------
+Special Thanks
+--------------------------------------
+
+Arksama https://github.com/ArkSama
+Idlesauce https://github.com/idlesauce
+Stooged https://github.com/stooged
+Echostretch https://github.com/EchoStretch
+Drakmor https://github.com/drakmor
+TheOfficialFloW https://github.com/theofficialflow
+BestPig https://github.com/BestPig
+VoidWhisper https://github.com/voidwhisper-ps
+cy33hc https://github.com/cy33hc
+Jordy https://github.com/jordyidk
+notmajor https://github.com/notmaj0r
+Pippo, kerrdec97, Speed-007, Mr.Cat all devs, dumpers, testers
+
+PS4/PS5 Jailbreak Pinas
+https://www.facebook.com/groups/390633592648807
+https://www.facebook.com/groups/1011520630219418
