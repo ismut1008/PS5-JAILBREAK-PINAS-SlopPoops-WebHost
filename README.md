@@ -28,7 +28,7 @@ What if offers?
    - Browser AppCache Remover(before caching a new one or to delete the previous cache to prevent Kernel Panic)
 
 - UNLIMITED PAYLOADS (depends on the user's setup, FREEDOM OF CHOICE on what payloads to add)
-    - run ps5xplorer and copy all the payload package on the designated path internally (you can add and delete payloads that you want, except the pre-embedded payloads)
+    - run ps5xplorer, ftp or any payload manager then copy the payloads you want on the designated path (you can add and delete payloads that you want, except the pre-embedded payloads)
 
 payload path:
 /user/home/(user-id)/webkit/shell/esp-payloads
