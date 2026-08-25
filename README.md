@@ -22,7 +22,9 @@ What if offers?
    - game-compressor1.0.4.elf
    - websrv-ps5v0.34.elf
 
-PLUS! Display User ID(for payload directory) and Browser AppCache Remover
+PLUS! 
+   - Display User ID(for user-id payload directory)
+   - Browser AppCache Remover(before caching a new one or to delete the previous cache to prevent Kernel Panic)
 
 -Media Tab Shortcut Icon Installer
 -ADDED FEATURE! AUTO POPULATE PAYLOADS (depends on the user's setup, FREEDOM OF CHOICE on PAYLOADS)
