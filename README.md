@@ -32,15 +32,15 @@ What if offers?
 
 - UNLIMITED PAYLOADS (depends on the user's setup, FREEDOM OF CHOICE on what payloads to add)
     - run ps5xplorer, ftp or any payload manager then copy the payloads you want on the designated path (you can add and delete payloads that you want, except the pre-embedded payloads)
+    - comes with pre-embed "lapy_jb_daemon" payload, so you can use PS5-Xplorer app to transfer payloads that you want or you can also use bfpilotv044.elf and web-file-mgr-v1.6.elf
+      
+    - payload path:
+    /user/home/(user-id)/webkit/shell/esp-payloads
 
-payload path:
-/user/home/(user-id)/webkit/shell/esp-payloads
+    - payload path example:
+    /user/home/(user-id)/webkit/shell/esp-payloads/kstuff1.6.7.elf
 
-payload path example:
-/user/home/(user-id)/webkit/shell/esp-payloads/kstuff1.6.7.elf
-
-   - (comes with pre-embed "lapy_jb_daemon" payload, so you can use PS5-Xplorer app to transfer payloads that you want or you can also use bfpilotv044.elf and web-file-mgr-v1.6.elf)
-
+     
 PS5-Xplorer fpkg link:
 https://pkg-zone.com/details/LAPY20011
 
