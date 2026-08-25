@@ -22,7 +22,7 @@ What if offers?
    - game-compressor1.0.4.elf
    - websrv-ps5v0.34.elf
 
-PLUS! 
+   PLUS! 
    - Display User ID(for user-id payload directory)
    - Browser AppCache Remover(before caching a new one or to delete the previous cache to prevent Kernel Panic)
 
