@@ -115,8 +115,8 @@ Entries beginning with ! represent a delay before continuing with the next entry
 
 For example:
 
-!4000 (means a delay of approximately: 4000 ms)
-onionhen.elf (the following line specifies the ELF that should be loaded)
+      !4000 (means a delay of approximately: 4000 ms)
+      onionhen.elf (the following line specifies the ELF that should be loaded)
 
 --------------------------------------------
 
