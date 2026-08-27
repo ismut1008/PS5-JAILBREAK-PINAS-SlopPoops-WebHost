@@ -109,21 +109,16 @@ Example:
       !4000
       elf-arsenal.elf
 --------------------------------------------
-      
+     
 Entries beginning with ! represent a delay before continuing with the next entry.
 --------------------------------------------
 
-
 For example:
 
-!4000
-means a delay of approximately:
-
-4000 ms
+!4000 = means a delay of approximately: 4000 ms
 The following line specifies the ELF that should be loaded.
 
 --------------------------------------------
-
 
 
 --------------------------------------
