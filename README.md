@@ -21,7 +21,7 @@ What if offers?
    - nanodns0.4.elf
    - bfpilotv044.elf
    - apr_emu_updaterv151.elf
-   - pldmgr_v0.5.1.elf
+   - payload_manager0.5.1.elf
    - web-file-mgr-v1.6.elf
    - game-compressor1.0.4.elf
    - websrv-ps5v0.34.elf
