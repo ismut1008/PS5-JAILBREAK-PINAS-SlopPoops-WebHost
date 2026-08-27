@@ -25,6 +25,7 @@ What if offers?
    - web-file-mgr-v1.6.elf
    - game-compressor1.0.4.elf
    - websrv-ps5v0.34.elf
+   - ps5_autoload.elf
 
    PLUS! 
    - Display User ID(user-id payload directory)
@@ -68,6 +69,70 @@ Webhost Link:
 https://ps5jailbreakpinas2.netlify.app/ or just ps5jailbreakpinas2.netlify.app
 
 
+Autoload Payload
+--------------------------------------------
+
+PS5 AUTOLOAD is designed to work with:
+
+/data/ps5_autoloader/
+For example:
+
+/data/ps5_autoloader/
+├── autoload.txt
+├── ftpsrv-ps5-0.19.elf
+├── shadowmountplus.elf
+├── kstuff.elf
+├── elf-arsenal.elf
+├── lapy_jb_daemon.elf
+├── pegasus_dl.elf
+├── pldmgr_v0.3.6.elf
+└── ps5shopappkg-dpi.elf
+
+--------------------------------------------
+
+The payloads themselves therefore don't necessarily need to be downloaded from the web interface.
+
+They can remain locally inside:
+
+/data/ps5_autoloader/
+
+
+--------------------------------------------
+
+
+autoload.txt
+--------------------------------------------
+
+autoload.txt controls the payload execution sequence.
+
+Example:
+
+
+--------------------------------------------
+!4000
+ftpsrv-ps5-0.19.elf
+!4000
+shadowmountplus.elf
+!4000
+kstuff.elf
+!4000
+elf-arsenal.elf
+Entries beginning with ! represent a delay before continuing with the next entry.
+--------------------------------------------
+
+
+For example:
+
+!4000
+means a delay of approximately:
+
+4000 ms
+The following line specifies the ELF that should be loaded.
+
+--------------------------------------------
+
+
+
 --------------------------------------
 Special Thanks
 --------------------------------------
@@ -83,6 +148,7 @@ VoidWhisper https://github.com/voidwhisper-ps
 cy33hc https://github.com/cy33hc
 Jordy https://github.com/jordyidk
 notmajor https://github.com/notmaj0r
+vladimir-cucu https://github.com/vladimir-cucu
 Pippo, kerrdec97, Speed-007, Mr.Cat all devs, dumpers, testers
 
 PS4/PS5 Jailbreak Pinas
