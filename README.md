@@ -107,7 +107,7 @@ Example:
       !4000
       kstuff.elf
       !4000
-      elf-arsenal.elf
+      onionhen.elf
 --------------------------------------------
      
 Entries beginning with ! represent a delay before continuing with the next entry.
@@ -115,8 +115,8 @@ Entries beginning with ! represent a delay before continuing with the next entry
 
 For example:
 
-!4000 = means a delay of approximately: 4000 ms
-The following line specifies the ELF that should be loaded.
+!4000 (means a delay of approximately: 4000 ms)
+onionhen.elf (the following line specifies the ELF that should be loaded)
 
 --------------------------------------------
 
