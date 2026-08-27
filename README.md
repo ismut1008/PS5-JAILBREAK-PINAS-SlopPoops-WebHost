@@ -77,16 +77,16 @@ PS5 AUTOLOAD is designed to work with:
 /data/ps5_autoloader/
 For example:
 
-/data/ps5_autoloader/
-├── autoload.txt
-├── ftpsrv-ps5-0.19.elf
-├── shadowmountplus.elf
-├── kstuff.elf
-├── elf-arsenal.elf
-├── lapy_jb_daemon.elf
-├── pegasus_dl.elf
-├── pldmgr_v0.3.6.elf
-└── ps5shopappkg-dpi.elf
+     /data/ps5_autoloader/
+     ├── autoload.txt
+     ├── ftpsrv-ps5-0.19.elf
+     ├── shadowmountplus.elf
+     ├── kstuff.elf
+     ├── elf-arsenal.elf
+     ├── lapy_jb_daemon.elf
+     ├── pegasus_dl.elf
+     ├── pldmgr_v0.3.6.elf
+     └── ps5shopappkg-dpi.elf
 
 --------------------------------------------
 
