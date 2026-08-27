@@ -72,7 +72,7 @@ https://ps5jailbreakpinas2.netlify.app/ or just ps5jailbreakpinas2.netlify.app
 Autoload Payload
 --------------------------------------------
 
-PS5 AUTOLOAD is designed to work with:
+PS5 AUTOLOAD folder structure:
 
 /data/ps5_autoloader/
 For example:
@@ -87,15 +87,6 @@ For example:
      ├── pegasus_dl.elf
      ├── pldmgr_v0.3.6.elf
      └── ps5shopappkg-dpi.elf
-
---------------------------------------------
-
-The payloads themselves therefore don't necessarily need to be downloaded from the web interface.
-
-They can remain locally inside:
-
-/data/ps5_autoloader/
-
 
 --------------------------------------------
 
