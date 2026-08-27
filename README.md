@@ -100,14 +100,16 @@ Example:
 
 
 --------------------------------------------
-!4000
-ftpsrv-ps5-0.19.elf
-!4000
-shadowmountplus.elf
-!4000
-kstuff.elf
-!4000
-elf-arsenal.elf
+      !4000
+      ftpsrv-ps5-0.19.elf
+      !4000
+      shadowmountplus.elf
+      !4000
+      kstuff.elf
+      !4000
+      elf-arsenal.elf
+--------------------------------------------
+      
 Entries beginning with ! represent a delay before continuing with the next entry.
 --------------------------------------------
 
