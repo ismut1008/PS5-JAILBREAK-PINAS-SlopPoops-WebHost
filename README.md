@@ -11,7 +11,7 @@ What if offers?
 - Improved Stability base on Jordy's WebHost 
 - Offline Cache! For Offline Jailbreak!
 - Media Tab Shortcut Icon Installer
-- Comes with 12 Pre-Embedded Payloads!
+- Comes with 13 Pre-Embedded Payloads!
 
    - lapy_jb_daemonv1.2.elf
    - KstuffLite1.10beta.elf
